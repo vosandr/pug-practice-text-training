@@ -1,10 +1,18 @@
 body{
     font: Arial, 1.2em, sans-serif;
-    color: #333;
+    color: #33f;
     line-height: 1.5;
 }
+
 .title{
-    font: 40px, #f03333;
+    font: 40px;
+    color: #f03333;
     line-height: 1.2;
     text-transform: uppercase;
+}
+
+.subtitle{
+    font-size: 30px;
+    color: #12ac11;
+
 }
